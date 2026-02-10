@@ -38,5 +38,5 @@ The exercises in this repository primarily use:
 
 ## Projects / Exercises
 
-Each exercise is organized in its own folder with a brief description of the task. Example structure:
+Each exercise is organized in its own folder with a brief description of the task.
 
