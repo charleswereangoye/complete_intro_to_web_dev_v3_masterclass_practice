@@ -32,7 +32,7 @@ The exercises in this repository primarily use:
 - **CSS3** – Styling and layout  
 - **JavaScript (ES6+)** – Adding interactivity  
 - **Flexbox & Grid** – Responsive layout techniques  
-- Optional: **Bootstrap / Tailwind CSS** – Framework-based styling (if applicable)  
+- **Bootstrap / Tailwind CSS** – Framework-based styling  
 
 ---
 
